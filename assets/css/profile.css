@@ -1,0 +1,27 @@
+.letest-offer .letest-offer-detail {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid var(--white);
+}
+
+.letest-offer .letest-offer-detail p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.letest-offer .letest-offer-detail p b {
+  color: var(--primary-bg-color);
+}
+
+.letest-offer .card {
+  margin-bottom: 30px;
+}
+
+.profile-section .pro-user-username{
+  color: var(--primary-bg-color) !important;
+}
+
+.card-title{
+  color: var(--primary-bg-color);
+}
